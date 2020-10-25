@@ -1,4 +1,3 @@
-/* eslint-disable spaced-comment */
 import rl from 'readline';
 import fs from 'fs';
 
